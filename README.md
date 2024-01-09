@@ -7,6 +7,9 @@ This sketch creates an animated pattern of lines using p5.js. The lines, that mo
 To use this sketch, make sure you have the p5.js library loaded. You can customize parameters such as canvas size, grid size, and animation characteristics in the `setup` function. Experiment with the oscillation functions and line generation to create unique visual effects.
 
 
+![Animation Preview](https://github.com/pono33/Link5/blob/main/Link5.gif)
+
+
 
 ## Parameters
 
